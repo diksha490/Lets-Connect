@@ -1,2 +1,4 @@
 # Lets-Connect
-Implementation of Chat Application
+
+Author-Diksha Gupta
+
